@@ -1,7 +1,7 @@
 ## WEB-PARSER
 
 #General info 
-The executable jar file "web-parser.jar" for this application can be found in the project folder "out/artifacts/web_parser_jar/" 
+The executable jar file "web-parser.jar" for this application can be found in the project folder "out/artifacts/web_parser_jar/". 
 Application was developed using JDK 1.7. As per task requirements, none of the Java frameworks was used (even 
 Collections and Stream API).  
 
